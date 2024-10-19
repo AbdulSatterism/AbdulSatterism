@@ -1,16 +1,31 @@
-## Hi there 👋
+![I am full stack web developer (MERN)](https://i.ibb.co.com/MS5dgxq/Abdul-Satter-1.png)
+# Hi this is MD. Abdul Satter
+### full stack web developer (MERN)
 
-<!--
-**AbdulSatterism/AbdulSatterism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a MERN stack web developer, I'm committed to challenging work in the best way. I'm always excited to
+learn and build effective applications. I strive to solve creative and exciting problems in my programming
+career.
 
-Here are some ideas to get you started:
+Skills: REACT / Typescript / Javascript / Nextjs / Node js /Express js/ Mongodb/Mongoose/JWT/ / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on I read and explore update technology 
+- 🌱 I’m currently learning I read technology document 
+- 🤔 I’m looking for help with I am looking for good job 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ AbdulSatterism)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abdul Satter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://abdul-satter.vercel.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-abdul-satter-ba10aa254/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username= AbdulSatterism)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= AbdulSatterism)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username= AbdulSatterism&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ AbdulSatterism/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ AbdulSatterism)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user= AbdulSatterism)  
+
