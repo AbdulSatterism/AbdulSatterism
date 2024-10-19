@@ -19,7 +19,7 @@ Skills: REACT / Typescript / Javascript / Nextjs / Node js /Express js/ Mongodb/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username= AbdulSatterism)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Abdul Satter Github stats](https://github-readme-stats.vercel.app/api?username=AbdulSatterism&show_icons=true&theme=dark)
+![Abdul Satter Github stats](https://github-readme-stats.vercel.app/api?username=AbdulSatterism&show_icons=true&theme=merko)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username= AbdulSatterism&show_icons=true&count_private=true)  
 
