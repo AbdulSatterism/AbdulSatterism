@@ -21,7 +21,7 @@ Skills: REACT / Typescript / Javascript / Nextjs / Node js /Express js/ Mongodb/
 
 ![Abdul Satter Github stats](https://github-readme-stats.vercel.app/api?username=AbdulSatterism&show_icons=true&theme=merko)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username= AbdulSatterism&show_icons=true&count_private=true)  
+![Abdul Satter Github stats](https://github-readme-stats.vercel.app/api?username=AbdulSatterism&show_icons=true&theme=merko) 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ AbdulSatterism/contributions?format=svg&private=true)  
 
