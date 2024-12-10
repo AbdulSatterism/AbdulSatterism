@@ -1,8 +1,8 @@
 ![I am full stack web developer (MERN)](https://i.ibb.co.com/MS5dgxq/Abdul-Satter-1.png)
 # Hi this is MD. Abdul Satter
-### full stack web developer (MERN)
+### Backend Developer
 
-As a MERN stack web developer, I'm committed to challenging work in the best way. I'm always excited to
+As a backend developer I'm committed to challenging work in the best way. I'm always excited to
 learn and build effective applications. I strive to solve creative and exciting problems in my programming
 career.
 
