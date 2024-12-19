@@ -26,7 +26,8 @@ career.
  <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Nodejs.png"/>
 <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/Express.png"/>
 <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JavaScript.png"/>
-
+ 
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
  <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/MongoDB.png"/>
 <img height="100" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/JWT.png"/>
 </p>
