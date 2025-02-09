@@ -44,7 +44,7 @@ career.
 
 
 <br />
-<div align="center" width="full">
+<div align="justify-between" width="full">
  
 
 
