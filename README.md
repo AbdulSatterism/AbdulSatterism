@@ -44,14 +44,17 @@ career.
 
 
 <br />
-<div align="justify-between" width="full">
+<div align="center" width="full">
  
-
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AbdulSatterism&theme=merko)](https://git.io/streak-stats)
 
+
+ 
 ![Abdul Satter Github stats](https://github-readme-stats.vercel.app/api?username=AbdulSatterism&show_icons=true&theme=merko)
 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSatterism&icons=true&theme=merko)](https://github.com/AbdulSatterism/github-readme-stats)) 
+
 </div>
 
