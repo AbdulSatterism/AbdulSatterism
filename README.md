@@ -1,6 +1,6 @@
 
 
- !I am full stack web developer (MERN)
+ I'm full stack web developer (MERN)
 
 # Hi this is MD. Abdul Satter
 ### Backend Developer
