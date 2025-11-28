@@ -12,14 +12,12 @@ career.
 - 🔭 I’m currently working on I read and explore update technology 
 - 🌱 I’m currently learning I read technology document 
 - 🤔 I’m looking for help with I am looking for good job
- - 👨‍💻 All of my projects are available at [https://abdul-satter.vercel.app/](https://abdul-satter.vercel.app/)
 - 📫 How to reach me **abdulsatter.ism@gmail.com**
-- 📄 My resume [https://drive.google.com/file/d/1OPHwsDZHZjFXODm5CsAlYpV_fulkginV/view?usp=drive_link](https://drive.google.com/file/d/1OPHwsDZHZjFXODm5CsAlYpV_fulkginV/view?usp=drive_link)
 
 
 <h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-abdul-satter-ba10aa254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdul-satter-ba10aa254/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-satter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-abdul-satter-ba10aa254/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/abdul.satter.1614/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdul.satter.1614/" height="30" width="40" /></a>
 </p> 
 
